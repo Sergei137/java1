@@ -1,7 +1,7 @@
 
 // hello world program
-// Created: 2023-08-20
-// Updated: 2023-08-20
+// Created: 2023-07-xx
+// Updated: 2023-07-15
 
 public class hello {
     public static void main(String[] args) {
