@@ -1,5 +1,6 @@
 
 // hello world program
+// Author: Sergei Mochalov
 // Created: 2023-07-xx
 // Updated: 2023-07-15
 
